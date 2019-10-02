@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\PaintFill\bin\Debug\netcoreapp2.2\PaintFill.deps.json
+C:\Downloads\amazon\amazonpractise\PaintFill\bin\Debug\netcoreapp2.2\PaintFill.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\PaintFill\bin\Debug\netcoreapp2.2\PaintFill.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\PaintFill\bin\Debug\netcoreapp2.2\PaintFill.dll
+C:\Downloads\amazon\amazonpractise\PaintFill\bin\Debug\netcoreapp2.2\PaintFill.pdb
+C:\Downloads\amazon\amazonpractise\PaintFill\obj\Debug\netcoreapp2.2\PaintFill.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\PaintFill\obj\Debug\netcoreapp2.2\PaintFill.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\PaintFill\obj\Debug\netcoreapp2.2\PaintFill.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\PaintFill\obj\Debug\netcoreapp2.2\PaintFill.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\PaintFill\obj\Debug\netcoreapp2.2\PaintFill.dll
+C:\Downloads\amazon\amazonpractise\PaintFill\obj\Debug\netcoreapp2.2\PaintFill.pdb

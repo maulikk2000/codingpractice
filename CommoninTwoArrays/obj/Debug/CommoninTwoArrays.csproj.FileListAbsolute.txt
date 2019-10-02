@@ -1,0 +1,7 @@
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\bin\Debug\CommoninTwoArrays.exe.config
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\bin\Debug\CommoninTwoArrays.exe
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\bin\Debug\CommoninTwoArrays.pdb
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\obj\Debug\CommoninTwoArrays.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\obj\Debug\CommoninTwoArrays.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\obj\Debug\CommoninTwoArrays.exe
+C:\Downloads\amazon\amazonpractise\CommoninTwoArrays\obj\Debug\CommoninTwoArrays.pdb

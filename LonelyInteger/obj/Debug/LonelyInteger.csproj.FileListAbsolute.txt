@@ -1,0 +1,7 @@
+C:\Downloads\amazon\amazonpractise\LonelyInteger\bin\Debug\LonelyInteger.exe.config
+C:\Downloads\amazon\amazonpractise\LonelyInteger\bin\Debug\LonelyInteger.exe
+C:\Downloads\amazon\amazonpractise\LonelyInteger\bin\Debug\LonelyInteger.pdb
+C:\Downloads\amazon\amazonpractise\LonelyInteger\obj\Debug\LonelyInteger.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\LonelyInteger\obj\Debug\LonelyInteger.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\LonelyInteger\obj\Debug\LonelyInteger.exe
+C:\Downloads\amazon\amazonpractise\LonelyInteger\obj\Debug\LonelyInteger.pdb

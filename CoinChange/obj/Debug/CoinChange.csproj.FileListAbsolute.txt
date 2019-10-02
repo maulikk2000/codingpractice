@@ -1,0 +1,7 @@
+C:\Downloads\amazon\amazonpractise\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Downloads\amazon\amazonpractise\CoinChange\bin\Debug\CoinChange.exe
+C:\Downloads\amazon\amazonpractise\CoinChange\bin\Debug\CoinChange.pdb
+C:\Downloads\amazon\amazonpractise\CoinChange\obj\Debug\CoinChange.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\CoinChange\obj\Debug\CoinChange.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\CoinChange\obj\Debug\CoinChange.exe
+C:\Downloads\amazon\amazonpractise\CoinChange\obj\Debug\CoinChange.pdb

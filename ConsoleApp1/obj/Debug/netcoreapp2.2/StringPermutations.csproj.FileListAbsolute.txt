@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\bin\Debug\netcoreapp2.2\StringPermutations.deps.json
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\bin\Debug\netcoreapp2.2\StringPermutations.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\bin\Debug\netcoreapp2.2\StringPermutations.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\bin\Debug\netcoreapp2.2\StringPermutations.dll
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\bin\Debug\netcoreapp2.2\StringPermutations.pdb
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\obj\Debug\netcoreapp2.2\StringPermutations.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\obj\Debug\netcoreapp2.2\StringPermutations.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\obj\Debug\netcoreapp2.2\StringPermutations.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\obj\Debug\netcoreapp2.2\StringPermutations.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\obj\Debug\netcoreapp2.2\StringPermutations.dll
+C:\Downloads\amazon\amazonpractise\ConsoleApp1\obj\Debug\netcoreapp2.2\StringPermutations.pdb

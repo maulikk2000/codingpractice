@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\8Queens\bin\Debug\netcoreapp2.2\8Queens.deps.json
+C:\Downloads\amazon\amazonpractise\8Queens\bin\Debug\netcoreapp2.2\8Queens.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\8Queens\bin\Debug\netcoreapp2.2\8Queens.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\8Queens\bin\Debug\netcoreapp2.2\8Queens.dll
+C:\Downloads\amazon\amazonpractise\8Queens\bin\Debug\netcoreapp2.2\8Queens.pdb
+C:\Downloads\amazon\amazonpractise\8Queens\obj\Debug\netcoreapp2.2\8Queens.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\8Queens\obj\Debug\netcoreapp2.2\8Queens.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\8Queens\obj\Debug\netcoreapp2.2\8Queens.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\8Queens\obj\Debug\netcoreapp2.2\8Queens.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\8Queens\obj\Debug\netcoreapp2.2\8Queens.dll
+C:\Downloads\amazon\amazonpractise\8Queens\obj\Debug\netcoreapp2.2\8Queens.pdb

@@ -1,0 +1,7 @@
+C:\Downloads\amazon\amazonpractise\Anagram\bin\Debug\Anagram.exe.config
+C:\Downloads\amazon\amazonpractise\Anagram\bin\Debug\Anagram.exe
+C:\Downloads\amazon\amazonpractise\Anagram\bin\Debug\Anagram.pdb
+C:\Downloads\amazon\amazonpractise\Anagram\obj\Debug\Anagram.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\Anagram\obj\Debug\Anagram.exe
+C:\Downloads\amazon\amazonpractise\Anagram\obj\Debug\Anagram.pdb

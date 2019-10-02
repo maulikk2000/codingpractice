@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\PartitionLabels\bin\Debug\netcoreapp2.2\PartitionLabels.deps.json
+C:\Downloads\amazon\amazonpractise\PartitionLabels\bin\Debug\netcoreapp2.2\PartitionLabels.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\PartitionLabels\bin\Debug\netcoreapp2.2\PartitionLabels.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\PartitionLabels\bin\Debug\netcoreapp2.2\PartitionLabels.dll
+C:\Downloads\amazon\amazonpractise\PartitionLabels\bin\Debug\netcoreapp2.2\PartitionLabels.pdb
+C:\Downloads\amazon\amazonpractise\PartitionLabels\obj\Debug\netcoreapp2.2\PartitionLabels.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\PartitionLabels\obj\Debug\netcoreapp2.2\PartitionLabels.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\PartitionLabels\obj\Debug\netcoreapp2.2\PartitionLabels.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\PartitionLabels\obj\Debug\netcoreapp2.2\PartitionLabels.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\PartitionLabels\obj\Debug\netcoreapp2.2\PartitionLabels.dll
+C:\Downloads\amazon\amazonpractise\PartitionLabels\obj\Debug\netcoreapp2.2\PartitionLabels.pdb

@@ -1,0 +1,10 @@
+C:\Downloads\amazon\amazonpractise\NextClosestTime\bin\Debug\netcoreapp2.2\NextClosestTime.deps.json
+C:\Downloads\amazon\amazonpractise\NextClosestTime\bin\Debug\netcoreapp2.2\NextClosestTime.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\NextClosestTime\bin\Debug\netcoreapp2.2\NextClosestTime.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\NextClosestTime\bin\Debug\netcoreapp2.2\NextClosestTime.dll
+C:\Downloads\amazon\amazonpractise\NextClosestTime\bin\Debug\netcoreapp2.2\NextClosestTime.pdb
+C:\Downloads\amazon\amazonpractise\NextClosestTime\obj\Debug\netcoreapp2.2\NextClosestTime.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\NextClosestTime\obj\Debug\netcoreapp2.2\NextClosestTime.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\NextClosestTime\obj\Debug\netcoreapp2.2\NextClosestTime.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\NextClosestTime\obj\Debug\netcoreapp2.2\NextClosestTime.dll
+C:\Downloads\amazon\amazonpractise\NextClosestTime\obj\Debug\netcoreapp2.2\NextClosestTime.pdb

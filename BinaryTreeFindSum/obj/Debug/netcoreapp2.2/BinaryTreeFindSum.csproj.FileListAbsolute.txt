@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\bin\Debug\netcoreapp2.2\BinaryTreeFindSum.deps.json
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\bin\Debug\netcoreapp2.2\BinaryTreeFindSum.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\bin\Debug\netcoreapp2.2\BinaryTreeFindSum.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\bin\Debug\netcoreapp2.2\BinaryTreeFindSum.dll
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\bin\Debug\netcoreapp2.2\BinaryTreeFindSum.pdb
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\obj\Debug\netcoreapp2.2\BinaryTreeFindSum.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\obj\Debug\netcoreapp2.2\BinaryTreeFindSum.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\obj\Debug\netcoreapp2.2\BinaryTreeFindSum.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\obj\Debug\netcoreapp2.2\BinaryTreeFindSum.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\obj\Debug\netcoreapp2.2\BinaryTreeFindSum.dll
+C:\Downloads\amazon\amazonpractise\BinaryTreeFindSum\obj\Debug\netcoreapp2.2\BinaryTreeFindSum.pdb

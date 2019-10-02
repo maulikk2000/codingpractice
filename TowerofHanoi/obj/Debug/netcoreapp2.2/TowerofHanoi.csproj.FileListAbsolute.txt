@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\bin\Debug\netcoreapp2.2\TowerofHanoi.deps.json
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\bin\Debug\netcoreapp2.2\TowerofHanoi.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\bin\Debug\netcoreapp2.2\TowerofHanoi.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\bin\Debug\netcoreapp2.2\TowerofHanoi.dll
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\bin\Debug\netcoreapp2.2\TowerofHanoi.pdb
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\obj\Debug\netcoreapp2.2\TowerofHanoi.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\obj\Debug\netcoreapp2.2\TowerofHanoi.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\obj\Debug\netcoreapp2.2\TowerofHanoi.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\obj\Debug\netcoreapp2.2\TowerofHanoi.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\obj\Debug\netcoreapp2.2\TowerofHanoi.dll
+C:\Downloads\amazon\amazonpractise\TowerofHanoi\obj\Debug\netcoreapp2.2\TowerofHanoi.pdb

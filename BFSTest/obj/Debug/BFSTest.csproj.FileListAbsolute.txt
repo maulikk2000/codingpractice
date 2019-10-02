@@ -1,0 +1,7 @@
+C:\Downloads\amazon\amazonpractise\BFSTest\bin\Debug\BFSTest.exe.config
+C:\Downloads\amazon\amazonpractise\BFSTest\bin\Debug\BFSTest.exe
+C:\Downloads\amazon\amazonpractise\BFSTest\bin\Debug\BFSTest.pdb
+C:\Downloads\amazon\amazonpractise\BFSTest\obj\Debug\BFSTest.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\BFSTest\obj\Debug\BFSTest.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\BFSTest\obj\Debug\BFSTest.exe
+C:\Downloads\amazon\amazonpractise\BFSTest\obj\Debug\BFSTest.pdb

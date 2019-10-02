@@ -1,0 +1,14 @@
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Successor.deps.json
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Successor.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Successor.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Successor.dll
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Successor.pdb
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Library.dll
+C:\Downloads\amazon\amazonpractise\Successor\bin\Debug\netcoreapp2.2\Library.pdb
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.csproj.CopyComplete
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.dll
+C:\Downloads\amazon\amazonpractise\Successor\obj\Debug\netcoreapp2.2\Successor.pdb

@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\SparseSearch\bin\Debug\netcoreapp2.2\SparseSearch.deps.json
+C:\Downloads\amazon\amazonpractise\SparseSearch\bin\Debug\netcoreapp2.2\SparseSearch.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\SparseSearch\bin\Debug\netcoreapp2.2\SparseSearch.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\SparseSearch\bin\Debug\netcoreapp2.2\SparseSearch.dll
+C:\Downloads\amazon\amazonpractise\SparseSearch\bin\Debug\netcoreapp2.2\SparseSearch.pdb
+C:\Downloads\amazon\amazonpractise\SparseSearch\obj\Debug\netcoreapp2.2\SparseSearch.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\SparseSearch\obj\Debug\netcoreapp2.2\SparseSearch.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\SparseSearch\obj\Debug\netcoreapp2.2\SparseSearch.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\SparseSearch\obj\Debug\netcoreapp2.2\SparseSearch.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\SparseSearch\obj\Debug\netcoreapp2.2\SparseSearch.dll
+C:\Downloads\amazon\amazonpractise\SparseSearch\obj\Debug\netcoreapp2.2\SparseSearch.pdb

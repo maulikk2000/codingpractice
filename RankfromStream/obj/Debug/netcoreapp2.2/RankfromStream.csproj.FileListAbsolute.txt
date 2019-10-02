@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\RankfromStream\bin\Debug\netcoreapp2.2\RankfromStream.deps.json
+C:\Downloads\amazon\amazonpractise\RankfromStream\bin\Debug\netcoreapp2.2\RankfromStream.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\RankfromStream\bin\Debug\netcoreapp2.2\RankfromStream.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\RankfromStream\bin\Debug\netcoreapp2.2\RankfromStream.dll
+C:\Downloads\amazon\amazonpractise\RankfromStream\bin\Debug\netcoreapp2.2\RankfromStream.pdb
+C:\Downloads\amazon\amazonpractise\RankfromStream\obj\Debug\netcoreapp2.2\RankfromStream.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\RankfromStream\obj\Debug\netcoreapp2.2\RankfromStream.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\RankfromStream\obj\Debug\netcoreapp2.2\RankfromStream.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\RankfromStream\obj\Debug\netcoreapp2.2\RankfromStream.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\RankfromStream\obj\Debug\netcoreapp2.2\RankfromStream.dll
+C:\Downloads\amazon\amazonpractise\RankfromStream\obj\Debug\netcoreapp2.2\RankfromStream.pdb

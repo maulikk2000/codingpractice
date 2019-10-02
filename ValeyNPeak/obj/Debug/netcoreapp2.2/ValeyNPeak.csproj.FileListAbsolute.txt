@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\bin\Debug\netcoreapp2.2\ValeyNPeak.deps.json
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\bin\Debug\netcoreapp2.2\ValeyNPeak.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\bin\Debug\netcoreapp2.2\ValeyNPeak.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\bin\Debug\netcoreapp2.2\ValeyNPeak.dll
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\bin\Debug\netcoreapp2.2\ValeyNPeak.pdb
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\obj\Debug\netcoreapp2.2\ValeyNPeak.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\obj\Debug\netcoreapp2.2\ValeyNPeak.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\obj\Debug\netcoreapp2.2\ValeyNPeak.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\obj\Debug\netcoreapp2.2\ValeyNPeak.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\obj\Debug\netcoreapp2.2\ValeyNPeak.dll
+C:\Downloads\amazon\amazonpractise\ValeyNPeak\obj\Debug\netcoreapp2.2\ValeyNPeak.pdb

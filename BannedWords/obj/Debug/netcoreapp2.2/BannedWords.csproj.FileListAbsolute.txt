@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\BannedWords\bin\Debug\netcoreapp2.2\BannedWords.deps.json
+C:\Downloads\amazon\amazonpractise\BannedWords\bin\Debug\netcoreapp2.2\BannedWords.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\BannedWords\bin\Debug\netcoreapp2.2\BannedWords.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\BannedWords\bin\Debug\netcoreapp2.2\BannedWords.dll
+C:\Downloads\amazon\amazonpractise\BannedWords\bin\Debug\netcoreapp2.2\BannedWords.pdb
+C:\Downloads\amazon\amazonpractise\BannedWords\obj\Debug\netcoreapp2.2\BannedWords.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\BannedWords\obj\Debug\netcoreapp2.2\BannedWords.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\BannedWords\obj\Debug\netcoreapp2.2\BannedWords.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\BannedWords\obj\Debug\netcoreapp2.2\BannedWords.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\BannedWords\obj\Debug\netcoreapp2.2\BannedWords.dll
+C:\Downloads\amazon\amazonpractise\BannedWords\obj\Debug\netcoreapp2.2\BannedWords.pdb

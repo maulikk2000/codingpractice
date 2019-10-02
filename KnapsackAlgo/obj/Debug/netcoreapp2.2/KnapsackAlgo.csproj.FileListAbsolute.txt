@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\bin\Debug\netcoreapp2.2\KnapsackAlgo.deps.json
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\bin\Debug\netcoreapp2.2\KnapsackAlgo.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\bin\Debug\netcoreapp2.2\KnapsackAlgo.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\bin\Debug\netcoreapp2.2\KnapsackAlgo.dll
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\bin\Debug\netcoreapp2.2\KnapsackAlgo.pdb
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\obj\Debug\netcoreapp2.2\KnapsackAlgo.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\obj\Debug\netcoreapp2.2\KnapsackAlgo.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\obj\Debug\netcoreapp2.2\KnapsackAlgo.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\obj\Debug\netcoreapp2.2\KnapsackAlgo.dll
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\obj\Debug\netcoreapp2.2\KnapsackAlgo.pdb
+C:\Downloads\amazon\amazonpractise\KnapsackAlgo\obj\Debug\netcoreapp2.2\KnapsackAlgo.csprojAssemblyReference.cache

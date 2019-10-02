@@ -1,0 +1,14 @@
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\List_of_Depths.deps.json
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\List_of_Depths.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\List_of_Depths.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\List_of_Depths.dll
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\List_of_Depths.pdb
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\Library.dll
+C:\Downloads\amazon\amazonpractise\List_of_Depths\bin\Debug\netcoreapp2.2\Library.pdb
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.csproj.CopyComplete
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.dll
+C:\Downloads\amazon\amazonpractise\List_of_Depths\obj\Debug\netcoreapp2.2\List_of_Depths.pdb

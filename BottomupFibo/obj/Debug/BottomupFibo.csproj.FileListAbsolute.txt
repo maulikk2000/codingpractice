@@ -1,0 +1,7 @@
+C:\Downloads\amazon\amazonpractise\BottomupFibo\bin\Debug\BottomupFibo.exe.config
+C:\Downloads\amazon\amazonpractise\BottomupFibo\bin\Debug\BottomupFibo.exe
+C:\Downloads\amazon\amazonpractise\BottomupFibo\bin\Debug\BottomupFibo.pdb
+C:\Downloads\amazon\amazonpractise\BottomupFibo\obj\Debug\BottomupFibo.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\BottomupFibo\obj\Debug\BottomupFibo.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\BottomupFibo\obj\Debug\BottomupFibo.exe
+C:\Downloads\amazon\amazonpractise\BottomupFibo\obj\Debug\BottomupFibo.pdb

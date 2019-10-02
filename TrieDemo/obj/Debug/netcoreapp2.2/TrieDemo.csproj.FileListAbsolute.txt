@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\TrieDemo\bin\Debug\netcoreapp2.2\TrieDemo.deps.json
+C:\Downloads\amazon\amazonpractise\TrieDemo\bin\Debug\netcoreapp2.2\TrieDemo.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\TrieDemo\bin\Debug\netcoreapp2.2\TrieDemo.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\TrieDemo\bin\Debug\netcoreapp2.2\TrieDemo.dll
+C:\Downloads\amazon\amazonpractise\TrieDemo\bin\Debug\netcoreapp2.2\TrieDemo.pdb
+C:\Downloads\amazon\amazonpractise\TrieDemo\obj\Debug\netcoreapp2.2\TrieDemo.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\TrieDemo\obj\Debug\netcoreapp2.2\TrieDemo.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\TrieDemo\obj\Debug\netcoreapp2.2\TrieDemo.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\TrieDemo\obj\Debug\netcoreapp2.2\TrieDemo.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\TrieDemo\obj\Debug\netcoreapp2.2\TrieDemo.dll
+C:\Downloads\amazon\amazonpractise\TrieDemo\obj\Debug\netcoreapp2.2\TrieDemo.pdb

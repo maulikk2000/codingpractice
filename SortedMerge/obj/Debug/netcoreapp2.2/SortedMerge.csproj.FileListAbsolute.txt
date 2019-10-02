@@ -1,0 +1,11 @@
+C:\Downloads\amazon\amazonpractise\SortedMerge\bin\Debug\netcoreapp2.2\SortedMerge.deps.json
+C:\Downloads\amazon\amazonpractise\SortedMerge\bin\Debug\netcoreapp2.2\SortedMerge.runtimeconfig.json
+C:\Downloads\amazon\amazonpractise\SortedMerge\bin\Debug\netcoreapp2.2\SortedMerge.runtimeconfig.dev.json
+C:\Downloads\amazon\amazonpractise\SortedMerge\bin\Debug\netcoreapp2.2\SortedMerge.dll
+C:\Downloads\amazon\amazonpractise\SortedMerge\bin\Debug\netcoreapp2.2\SortedMerge.pdb
+C:\Downloads\amazon\amazonpractise\SortedMerge\obj\Debug\netcoreapp2.2\SortedMerge.csprojAssemblyReference.cache
+C:\Downloads\amazon\amazonpractise\SortedMerge\obj\Debug\netcoreapp2.2\SortedMerge.csproj.CoreCompileInputs.cache
+C:\Downloads\amazon\amazonpractise\SortedMerge\obj\Debug\netcoreapp2.2\SortedMerge.AssemblyInfoInputs.cache
+C:\Downloads\amazon\amazonpractise\SortedMerge\obj\Debug\netcoreapp2.2\SortedMerge.AssemblyInfo.cs
+C:\Downloads\amazon\amazonpractise\SortedMerge\obj\Debug\netcoreapp2.2\SortedMerge.dll
+C:\Downloads\amazon\amazonpractise\SortedMerge\obj\Debug\netcoreapp2.2\SortedMerge.pdb
